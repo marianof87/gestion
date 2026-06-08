@@ -1,0 +1,17 @@
+{
+  "name": "gestion-suscripciones-premium",
+  "version": "1.0.0",
+  "description": "Premium Subscription and Billing Management System",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
